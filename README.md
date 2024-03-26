@@ -1,5 +1,78 @@
 <h1 align="center">Hi 👋, I'm Akram</h1>
 <h3 align="center">A backend developer from Egypt</h3>
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    background-color: #f3f3f3;
+    margin: 0;
+    padding: 0;
+  }
+
+  .container {
+    max-width: 800px;
+    margin: 50px auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+
+  h1, h3 {
+    text-align: center;
+    color: #333;
+  }
+
+  img.profile-pic {
+    display: block;
+    margin: 0 auto;
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+  }
+
+  .social-icons {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+  }
+
+  .social-icons a {
+    margin: 0 10px;
+    text-decoration: none;
+    color: #555;
+    transition: color 0.3s ease;
+  }
+
+  .social-icons a:hover {
+    color: #007bff;
+  }
+
+  .stats {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+  }
+
+  .stats-item {
+    text-align: center;
+  }
+
+  .stats-item p {
+    margin: 5px 0;
+    font-size: 14px;
+  }
+
+  .languages {
+    margin-top: 20px;
+  }
+
+  .languages img {
+    margin: 0 5px;
+    vertical-align: middle;
+  }
+
+</style>
 
 <img src="https://pbs.twimg.com/profile_images/1625856237924671490/jPni2Bi5_400x400.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akram209&label=Profile%20views&color=0e75b6&style=flat" alt="akram209" /> </p>
