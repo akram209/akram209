@@ -1,7 +1,7 @@
 
-# Hamster Kombat CLCKR 2024
+# DEX Screener 2024
 
-![Hamster Kombat CLCKR 2024](https://via.placeholder.com/800x400?text=Hamster Kombat CLCKR 2024)
+![DEX Screener 2024](https://via.placeholder.com/800x400?text=DEX Screener 2024)
 
 ## Features
 
