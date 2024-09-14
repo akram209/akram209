@@ -1,7 +1,7 @@
 
-# Wallpaper Engine
+# Hamster Kombat CLCKR 2024
 
-![Wallpaper Engine](/mnt/data/A_vibrant,_dynamic_design_representing_Wallpaper_E.png)
+![Hamster Kombat CLCKR 2024](https://via.placeholder.com/800x400?text=Hamster Kombat CLCKR 2024)
 
 ## Features
 
