@@ -1,7 +1,7 @@
 
-# DEX Screener 2024
+# Lumion Pro
 
-![DEX Screener 2024](https://via.placeholder.com/800x400?text=DEX Screener 2024)
+![Lumion Pro](https://via.placeholder.com/800x400?text=Lumion Pro)
 
 ## Features
 
