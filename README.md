@@ -1,7 +1,7 @@
 
-# fl studio
+# FL
 
-![fl studio](https://via.placeholder.com/800x400?text=fl studio)
+![FL](https://via.placeholder.com/800x400?text=FL)
 
 ## Features
 
