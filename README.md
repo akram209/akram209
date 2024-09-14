@@ -1,7 +1,7 @@
 
-# FL
+# Wallpaper Engine
 
-![FL](https://via.placeholder.com/800x400?text=FL)
+![Wallpaper Engine](/mnt/data/A_vibrant,_dynamic_design_representing_Wallpaper_E.png)
 
 ## Features
 
