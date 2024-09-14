@@ -1,7 +1,7 @@
 
-# WinRAR
+# fl studio
 
-![WinRAR](https://via.placeholder.com/800x400?text=WinRAR)
+![fl studio](https://via.placeholder.com/800x400?text=fl studio)
 
 ## Features
 
