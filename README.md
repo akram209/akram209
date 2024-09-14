@@ -1,6 +1,8 @@
 
 # WinRAR
 
+![WinRAR](https://via.placeholder.com/800x400?text=WinRAR)
+
 ## Features
 
 - Easy to use
