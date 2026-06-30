@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Akram</h1>
-<h3 align="center">A backend developer from Egypt</h3>
+<h3 align="center">A humble bug hunter</h3>
 
 <img src="https://pbs.twimg.com/profile_images/1625856237924671490/jPni2Bi5_400x400.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akram209&label=Profile%20views&color=0e75b6&style=flat" alt="akram209" /> </p>
 
-- 🌱 I’m currently learning **Laravel**
+- 🐞 Passionate about **Bug Hunting, Web Security, and discovering hidden vulnerabilities.**
+
 
 - 📫 How to reach me **akramhesham209@gamil.com**
 
-- ⚡ Fun fact **I hate cooding**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
